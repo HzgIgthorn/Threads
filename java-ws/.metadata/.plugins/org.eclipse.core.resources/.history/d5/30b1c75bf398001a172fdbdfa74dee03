@@ -1,0 +1,13 @@
+package de.udemy.threadapi;
+
+import java.util.Date;
+
+public class FifthWay implements Constants{
+
+	public static void main(String[] args) {
+		Date before = new Date();
+		System.out.println("Main thread starts at "+STF.format(before));
+
+	}
+
+}
