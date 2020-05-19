@@ -1,0 +1,11 @@
+package de.udemy.executorsapi;
+
+public class LoopTaskA implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

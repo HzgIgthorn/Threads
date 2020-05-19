@@ -1,0 +1,30 @@
+package de.udemy.executorsapi;
+
+import java.util.Date;
+import java.util.concurrent.TimeUnit;
+
+public class LoopTaskA implements Runnable {
+
+	private static int count = 0;
+	private int id;
+	
+	public LoopTaskA(int id) {
+		super();
+		this.id = ++count;
+	}
+
+	@Override
+	public void run() {
+		for(int i = 10; i > 0; i-- ) {
+			System.out.println("<R"+id+"> TICK TICK " + i);
+			
+			try {
+				TimeUnit.MILLISECONDS.sleep(200);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+
+}
