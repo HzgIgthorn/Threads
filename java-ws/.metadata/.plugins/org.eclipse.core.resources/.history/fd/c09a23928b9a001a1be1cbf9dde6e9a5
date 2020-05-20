@@ -1,0 +1,13 @@
+package de.udemy.executorsapi;
+
+import java.util.concurrent.ThreadFactory;
+
+public class NamedThreadsFactory implements ThreadFactory {
+
+	@Override
+	public Thread newThread(Runnable arg0) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

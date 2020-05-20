@@ -8,3 +8,11 @@
 1589797481540	Rename type 'ThirdtTask'
 1589797766893	Copy compilation unit
 1589890289554	Copy compilation unit
+1589971157536	Copy compilation unit
+1589971174828	Rename type 'LoopTaskA'
+1589972345913	Rename type 'LoopTaskB'
+1589972379681	Copy compilation unit
+1589972879198	Copy compilation unit
+1589972964564	Rename local variable 'thrad'
+1589973229917	Rename local variable 'execServ'
+1589973242439	Rename local variable 'execServ1'
