@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="de.udemy.firstthread.FirstTask"/>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthTextFieldUI"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
-<fullyQualifiedTypeName name="de.udemy.threadapi.Constants"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskB"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskStay"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.NamedThreadsFactory"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.ResultListener"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.Constants"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="de.udemy.executorapi.NamedThreadsFactory"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+<fullyQualifiedTypeName name="de.udemy.executorapi.CallableTaskB"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.ReturnTaskA"/>
 </qualifiedTypeNameHistroy>
