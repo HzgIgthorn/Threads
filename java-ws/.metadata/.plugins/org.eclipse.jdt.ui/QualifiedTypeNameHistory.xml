@@ -10,7 +10,6 @@
 <fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskB"/>
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.ResultListener"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.Constants"/>
 <fullyQualifiedTypeName name="de.udemy.executorapi.NamedThreadsFactory"/>
 <fullyQualifiedTypeName name="de.udemy.executorapi.CallableTaskB"/>
@@ -21,12 +20,23 @@
 <fullyQualifiedTypeName name="de.udemy.threadapi.ReturnAApp"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.ReturnTaskA"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskStay"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
-<fullyQualifiedTypeName name="de.udemy.executorsapi.NamedThreadsFactory"/>
-<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Future"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.LoopTaskA"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.CallableTaskB"/>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
 <fullyQualifiedTypeName name="java.util.concurrent.FutureTask"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskE"/>
+<fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.NamedThreadsFactory"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.LoopFacTask"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.LoopFacTaskB"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.LoopInterruptTask"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Future"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.LoopFlagTask"/>
+<fullyQualifiedTypeName name="java.io.Closeable"/>
 </qualifiedTypeNameHistroy>
