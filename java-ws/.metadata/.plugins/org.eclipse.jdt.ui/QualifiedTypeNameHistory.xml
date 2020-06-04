@@ -5,10 +5,8 @@
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthTextFieldUI"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.LoopTaskB"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.ResultListener"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.Constants"/>
 <fullyQualifiedTypeName name="de.udemy.executorapi.NamedThreadsFactory"/>
@@ -29,8 +27,6 @@
 <fullyQualifiedTypeName name="java.util.Collections"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
-<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.NamedThreadsFactory"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.LoopFacTask"/>
 <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
@@ -39,4 +35,14 @@
 <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.LoopFlagTask"/>
 <fullyQualifiedTypeName name="java.io.Closeable"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="de.udemy.exceptions.ExceptionTask"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="de.udemy.exceptions.ThreadExceptionHandler"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.ExceptionTask"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="de.udemy.threadapi.ThreadExceptionHandler"/>
+<fullyQualifiedTypeName name="de.udemy.executorsapi.HandlerThreadsFactory"/>
 </qualifiedTypeNameHistroy>
