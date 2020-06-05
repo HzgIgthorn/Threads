@@ -37,12 +37,16 @@
 <fullyQualifiedTypeName name="java.io.Closeable"/>
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="de.udemy.exceptions.ExceptionTask"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
 <fullyQualifiedTypeName name="de.udemy.exceptions.ThreadExceptionHandler"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.ExceptionTask"/>
-<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
-<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.ThreadExceptionHandler"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.HandlerThreadsFactory"/>
+<fullyQualifiedTypeName name="de.udemy.JoinThreads.LoopTaskStay"/>
+<fullyQualifiedTypeName name="de.udemy.JoinThreads.ReturnTaskA"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+<fullyQualifiedTypeName name="de.udemy.JoinThreads.NamedThreadsFactory"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
 </qualifiedTypeNameHistroy>
