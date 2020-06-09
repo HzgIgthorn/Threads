@@ -29,7 +29,6 @@
 <fullyQualifiedTypeName name="java.util.concurrent.Callable"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.NamedThreadsFactory"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.LoopFacTask"/>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
 <fullyQualifiedTypeName name="de.udemy.executorsapi.LoopFacTaskB"/>
 <fullyQualifiedTypeName name="de.udemy.threadapi.LoopInterruptTask"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Future"/>
@@ -49,4 +48,12 @@
 <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
 <fullyQualifiedTypeName name="de.udemy.JoinThreads.NamedThreadsFactory"/>
 <fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="java.time.Instant"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.time.ZoneId"/>
+<fullyQualifiedTypeName name="de.udemy.scheduling.SchedulingTask"/>
 </qualifiedTypeNameHistroy>
